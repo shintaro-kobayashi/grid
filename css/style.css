@@ -13,6 +13,8 @@ body {
     /1fr 19%;
 }
 
+
+
 .haeder {
   background-color: red;
   grid-area: header;
